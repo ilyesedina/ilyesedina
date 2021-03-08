@@ -1,5 +1,5 @@
 ### Welcome, My name is Edina 👋
-## I'm a Developer in progress 
+## I'm a web developer in progress 
 
 - 🌱 I’m currently learning backend development, on the way to become a full-stack developer
 - ⚡ Fun fact: I love to take pictures and create digital drawings.
