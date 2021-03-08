@@ -1,5 +1,4 @@
 ### Welcome, My name is Edina 👋
-
 ## I'm a Developer in progress 
 
 - 🌱 I’m currently learning backend development, on the way to become a full-stack developer
@@ -45,3 +44,8 @@
 <br />
 
 ---
+
+[youtube]: https://www.youtube.com/channel/UCiioiqZigffPuWBXRHetoGg/videos?view_as=subscriber
+[instagram]: https://www.instagram.com/especial_photo/
+[linkedin]: https://www.linkedin.com/in/edina-ilyes/
+
