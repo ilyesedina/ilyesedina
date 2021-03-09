@@ -35,7 +35,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyesedina&layout=compact)](https://github.com/ilyesedina/ilyesedina?tab=repositories)
 
-[![Top Langs](https://ilyesedina.vercel.app/api/top-langs/?username=ilyesedina&layout=compact)](https://github.com/ilyesedina/ilyesedina?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyesedina&layout=compact)](https://github.com/ilyesedina?tab=repositories)
+
 
 [youtube]: https://www.youtube.com/channel/UCiioiqZigffPuWBXRHetoGg/videos?view_as=subscriber
 [instagram]: https://www.instagram.com/especial_photo/
