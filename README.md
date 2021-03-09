@@ -1,4 +1,4 @@
-### Hello World, My name is Edina <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hello World, 👋 My name is Edina <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 ## I'm a web developer in progress 
 
 - 🌱 I’m currently learning backend development, on the way to become a full-stack developer
