@@ -8,8 +8,8 @@
 </a>
 
 <br />
----- 
 
+---- 
 ## I'm a web developer in progress 
 
 - 🌱 I’m currently learning backend development, on the way to become a full-stack developer
