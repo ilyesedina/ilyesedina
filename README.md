@@ -5,7 +5,9 @@
 [<img align="left" alt="ilyesedina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ilyesedina | Whatsapp" width="22px" src="https://api.whatsapp.com/send?phone=004550324910" />][whatsapp]
 [<img align="left" alt="ilyesedina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
 <a target="_blank" href="mailto:arycleniobarros@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
